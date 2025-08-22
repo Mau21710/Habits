@@ -1,0 +1,18 @@
+timestamp,category,label,points
+2025-08-19 00:00:00,Carisma,Postura,5
+2025-08-22 00:00:00,Carisma,Shambawi,5
+2025-08-22 17:30:28,Carisma,Postura,5
+2025-08-22 17:30:53,Carisma,Postura,5
+2025-08-22 17:32:04,Carisma,Postura,5
+2025-08-19 00:00:00,Cibo,Cibo sano,5
+2025-08-19 00:00:00,Cibo,Cibo spazzatura,-5
+2025-08-19 00:00:00,Cibo,Cibo sano,5
+2025-08-22 00:00:00,Cibo,Digiuno,8
+2025-08-22 00:00:00,Cibo,Pranzo equilibrato,5
+2025-08-19 00:00:00,Fisico,Burpees,5
+2025-08-19 00:00:00,Fisico,Allenamento,10
+2025-08-22 00:00:00,Fisico,Shambawi,5
+2025-08-19 00:00:00,Mente,pazienza,10
+2025-08-19 00:00:00,Mente,Meditazione,5
+2025-08-19 00:00:00,Mente,Shambawi Short,40
+2025-08-22 00:00:00,Mente,Shambawi,40
